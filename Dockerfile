@@ -1,5 +1,5 @@
 FROM binhex/arch-int-gui:latest
-MAINTAINER binhex
+LABEL maintainer="emmet1@gmail.com"
 
 # additional files
 ##################
